@@ -1,10 +1,7 @@
-/*FOOTER*/
+/* FOOTER */
 footer{
-	margin: 0px auto;
 	padding: 100px;
-	position: absolute;
-	bottom: 0;
-
+	margin-top: 100px;
 }
 
 .grid-footer{
@@ -79,4 +76,8 @@ hr{
 
 .item:hover{
 	color:whitesmoke;
+}
+
+h1,h2,h3,h4,h5,h6{
+	color: black;
 }
